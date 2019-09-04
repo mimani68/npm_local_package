@@ -9,4 +9,4 @@
 
 ## Uninstall
 
-    npm uninstall --save libs/log
+    npm uninstal libs/log
